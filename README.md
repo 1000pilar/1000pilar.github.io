@@ -5,45 +5,45 @@ This site is about how Company could achieve efficiency on industrial purchase o
 
 
 #Used Tags & Syntaxes
-<--!<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html lang="en" id="home">
   <head>
     
-  </head>
+  </head> 
   <body>
 
     <!--navbar -->
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+  <!--  <nav class="navbar navbar-inverse navbar-fixed-top">
     </nav>  
     <!-- akhir navbar-->
    <!--Jumbotron awal-->
-  <div class="jumbotron text-center">
+<!--  <div class="jumbotron text-center">
   </div>
 
    <!--Jumbotron Akhir-->
 
    <!-- about -->
 
-  <section class="about" id="about">
-  </section>
+<!--  <section class="about" id="about">
+<!--  </section>
    <!--akhir about -->
 
 
 
 <!--Product-->
-<section class="product" id="product">
+<!--<section class="product" id="product">
 </section>
 <!--akhir product-->
 
  <!-- about Me-->
 
-  <section class="me" id="me">
+  <!--<section class="me" id="me">
   </section>
    <!--akhir about Me-->
 
 
 <!--Footer-->
-<footer>
+<!--<footer>
 
 </footer>
 
@@ -51,8 +51,8 @@ This site is about how Company could achieve efficiency on industrial purchase o
 
 
 
-  </body>
-</html> !-->
+<!-- </body>
+</html> -->
 
 #About Me
 Author This Site is industrial worker with experience more than 5 years, realize that industrial need more efficient way to buy industrial stuff. We try to find solution for buying system.
