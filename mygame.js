@@ -22,7 +22,7 @@ if(h === 0) {
   console.log("Ketik nilai lebar segmen, h!!!");
 }
 else {
-  console.log("Lebar Segmen yang kamu input: "+ [h]);
+  console.log("Lebar Segmen yang kamu input tes: "+ [h]);
 }
 
 var r = (b - a)/h;
